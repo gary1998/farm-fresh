@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farm-fresh/static/css/main.b100e6da.chunk.css",
+    "main.js": "/farm-fresh/static/js/main.424c0107.chunk.js",
+    "main.js.map": "/farm-fresh/static/js/main.424c0107.chunk.js.map",
+    "runtime-main.js": "/farm-fresh/static/js/runtime-main.41136521.js",
+    "runtime-main.js.map": "/farm-fresh/static/js/runtime-main.41136521.js.map",
+    "static/js/2.6412dfc6.chunk.js": "/farm-fresh/static/js/2.6412dfc6.chunk.js",
+    "static/js/2.6412dfc6.chunk.js.map": "/farm-fresh/static/js/2.6412dfc6.chunk.js.map",
+    "index.html": "/farm-fresh/index.html",
+    "precache-manifest.190366a778eae61e338f9dcb1fdc17e0.js": "/farm-fresh/precache-manifest.190366a778eae61e338f9dcb1fdc17e0.js",
+    "service-worker.js": "/farm-fresh/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/farm-fresh/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/farm-fresh/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41136521.js",
+    "static/js/2.6412dfc6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.424c0107.chunk.js"
+  ]
+}
